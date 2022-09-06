@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/yaqtg4hffj0ixa6s?svg=true)](https://ci.appveyor.com/project/TrandinaT/testingwebinterfaces2)
+[![Build status](https://ci.appveyor.com/api/projects/status/9607l6tu6ls48yqa?svg=true)](https://ci.appveyor.com/project/TrandinaT/testingwebinterfaces2-iayad)
